@@ -1,0 +1,89 @@
+2021-04-11 17:47:28,798:$(message)s
+2021-04-11 17:48:04,176: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-11 17:48:31,235:POST /register centers id:5
+2021-04-11 17:48:31,236:127.0.0.1 - - [11/Apr/2021 17:48:31] "[37mPOST /register HTTP/1.1[0m" 201 -
+2021-04-11 17:57:21,679: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-11 17:57:36,766:127.0.0.1 - - [11/Apr/2021 17:57:36] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-11 17:59:16,605:127.0.0.1 - - [11/Apr/2021 17:59:16] "[31m[1mPOST /species HTTP/1.1[0m" 401 -
+2021-04-11 18:00:24,844:127.0.0.1 - - [11/Apr/2021 18:00:24] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgxNTM2NTYsImNlbnRlcl9pZCI6MX0.BrWwExzDDHBaCqMhxJKSipPBIMiCdtn7tpQmyBcivnY HTTP/1.1[0m" 401 -
+2021-04-11 18:01:46,757: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-11 18:02:00,198:127.0.0.1 - - [11/Apr/2021 18:02:00] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-11 18:02:22,500:127.0.0.1 - - [11/Apr/2021 18:02:22] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgxNTM5MjB9.vRmg9VGVGxGnqApYglUtqNathwy9Xl2QP7COKMJOCOc HTTP/1.1[0m" 401 -
+2021-04-11 18:14:02,292: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-11 18:14:06,774:127.0.0.1 - - [11/Apr/2021 18:14:06] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-11 18:15:01,260:127.0.0.1 - - [11/Apr/2021 18:15:01] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgxNTQxNDYsImNlbnRlcl9pZCI6MX0.oRggvWeDh1_mmUExjbktuyRfXrmMahxRItKWRvhgrAo HTTP/1.1[0m" 401 -
+2021-04-11 18:15:45,655: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-11 18:15:56,931:127.0.0.1 - - [11/Apr/2021 18:15:56] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-11 18:16:23,116:127.0.0.1 - - [11/Apr/2021 18:16:23] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgxNTQyNDgsImNlbnRlcl9pZCI6MX0.PgKrxVr8O3vtsccWsnsndHm-O158Ca52f0afCZnzPv8 HTTP/1.1[0m" 401 -
+2021-04-11 19:25:41,154: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-11 19:26:04,197:127.0.0.1 - - [11/Apr/2021 19:26:04] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-11 19:26:44,580:127.0.0.1 - - [11/Apr/2021 19:26:44] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgxNTg0NTksImNlbnRlcl9pZCI6MX0.Bm-q_BYe3sYCmLflNMdTTUKPVrZ6mxlPebXHbdXPDvA HTTP/1.1[0m" 401 -
+2021-04-12 09:16:57,032: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-12 09:17:39,737:127.0.0.1 - - [12/Apr/2021 09:17:39] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-12 09:18:08,111:127.0.0.1 - - [12/Apr/2021 09:18:08] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgyMDgzNTUsImNlbnRlcl9pZCI6MX0.SCDKryErWu7pyTxfkvaZTpHOfAthr24etXA-Jnp0R3Y HTTP/1.1[0m" 401 -
+2021-04-14 12:07:05,376: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-14 12:07:18,154:127.0.0.1 - - [14/Apr/2021 12:07:18] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-14 12:07:39,359:127.0.0.1 - - [14/Apr/2021 12:07:39] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgzOTEzMzMsImNlbnRlcl9pZCI6MX0.A_uqqieVlNsg9e8jCd0ScMx5wBAO7MaK9oS1cV4FydI HTTP/1.1[0m" 401 -
+2021-04-14 12:59:00,873: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-14 12:59:16,627: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-14 12:59:24,831:127.0.0.1 - - [14/Apr/2021 12:59:24] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-14 12:59:43,141:Exception on /species [POST]
+Traceback (most recent call last):
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/main.py", line 123, in add_specie
+    data = jwt.decode(token, app.config['SECRET_KEY'])
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/jwt/api_jwt.py", line 113, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "/Users/dkrylov/projects/learn_python/capstone_project_flask/venv/lib/python3.9/site-packages/jwt/api_jwt.py", line 79, in decode_complete
+    raise DecodeError(
+jwt.exceptions.DecodeError: It is required that you pass in a value for the "algorithms" argument when calling decode().
+2021-04-14 12:59:43,166:127.0.0.1 - - [14/Apr/2021 12:59:43] "[35m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTgzOTQ0NjIsImNlbnRlcl9pZCI6MX0.tgznxhXlHzwuvpUHqOczbx3qgipWgfO8l_SQMRbBg3k HTTP/1.1[0m" 500 -
+2021-04-15 15:20:04,278: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 15:20:43,926:127.0.0.1 - - [15/Apr/2021 15:20:43] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-15 15:21:01,382:127.0.0.1 - - [15/Apr/2021 15:21:01] "[31m[1mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODkzNDMsImNlbnRlcl9pZCI6MX0.96ZrBfPQv3wqTZXDhiUZ5sFqGEb1ZPl292lVFI1Mv3g HTTP/1.1[0m" 400 -
+2021-04-15 15:21:24,406:POST /species specie_id4 center_id:1
+2021-04-15 15:21:24,407:127.0.0.1 - - [15/Apr/2021 15:21:24] "[37mPOST /species?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODkzNDMsImNlbnRlcl9pZCI6MX0.96ZrBfPQv3wqTZXDhiUZ5sFqGEb1ZPl292lVFI1Mv3g HTTP/1.1[0m" 201 -
+2021-04-15 15:21:34,228:127.0.0.1 - - [15/Apr/2021 15:21:34] "[37mGET /species HTTP/1.1[0m" 200 -
+2021-04-15 15:25:19,207: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 15:25:23,410:127.0.0.1 - - [15/Apr/2021 15:25:23] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-15 15:27:18,847:127.0.0.1 - - [15/Apr/2021 15:27:18] "[31m[1mPOST /animals?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODk2MjMsImNlbnRlcl9pZCI6MX0.xjYDiSWmemnwJMe178_BuTGHQ57eIwfqkXaWCKQ0XHk HTTP/1.1[0m" 401 -
+2021-04-15 15:27:28,187:127.0.0.1 - - [15/Apr/2021 15:27:28] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-15 15:27:44,236:POST /animals animal_id5 center_id:1
+2021-04-15 15:27:44,237:127.0.0.1 - - [15/Apr/2021 15:27:44] "[37mPOST /animals?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODk3NDgsImNlbnRlcl9pZCI6MX0.vbrnwd299dwCMf_2PW139h6sLoxzNTi-O0J5xMGVKAg HTTP/1.1[0m" 201 -
+2021-04-15 15:28:05,866:127.0.0.1 - - [15/Apr/2021 15:28:05] "[37mGET /animals HTTP/1.1[0m" 200 -
+2021-04-15 15:28:11,378:127.0.0.1 - - [15/Apr/2021 15:28:11] "[37mGET /animals/5 HTTP/1.1[0m" 200 -
+2021-04-15 15:30:38,519: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 15:30:40,774:127.0.0.1 - - [15/Apr/2021 15:30:40] "[31m[1mPOST /animals?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODk3NDgsImNlbnRlcl9pZCI6MX0.vbrnwd299dwCMf_2PW139h6sLoxzNTi-O0J5xMGVKAg HTTP/1.1[0m" 401 -
+2021-04-15 15:30:44,007:127.0.0.1 - - [15/Apr/2021 15:30:44] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-15 15:31:00,401:127.0.0.1 - - [15/Apr/2021 15:31:00] "[31m[1mPUT /animals?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODk5NDMsImNlbnRlcl9pZCI6MX0.7yjmYnn2s103dtunMBGw1foe4YnFIMuwhfPoIwwEY-M HTTP/1.1[0m" 405 -
+2021-04-15 15:31:11,363:PUT /animals animal_id:5 center_id:1
+2021-04-15 15:31:11,364:127.0.0.1 - - [15/Apr/2021 15:31:11] "[37mPUT /animals/5?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODk5NDMsImNlbnRlcl9pZCI6MX0.7yjmYnn2s103dtunMBGw1foe4YnFIMuwhfPoIwwEY-M HTTP/1.1[0m" 204 -
+2021-04-15 15:31:16,121:127.0.0.1 - - [15/Apr/2021 15:31:16] "[37mGET /animals/5 HTTP/1.1[0m" 200 -
+2021-04-15 15:34:33,922: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 15:34:55,014:127.0.0.1 - - [15/Apr/2021 15:34:55] "[37mGET /animals HTTP/1.1[0m" 200 -
+2021-04-15 15:35:03,450:127.0.0.1 - - [15/Apr/2021 15:35:03] "[37mGET /centers HTTP/1.1[0m" 200 -
+2021-04-15 15:35:13,784:127.0.0.1 - - [15/Apr/2021 15:35:13] "[37mGET /centers/1 HTTP/1.1[0m" 200 -
+2021-04-15 15:35:19,806:127.0.0.1 - - [15/Apr/2021 15:35:19] "[37mGET /centers/2 HTTP/1.1[0m" 200 -
+2021-04-15 15:36:04,069:127.0.0.1 - - [15/Apr/2021 15:36:04] "[31m[1mDELETE /animals/1?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0ODk5NDMsImNlbnRlcl9pZCI6MX0.7yjmYnn2s103dtunMBGw1foe4YnFIMuwhfPoIwwEY-M HTTP/1.1[0m" 401 -
+2021-04-15 15:36:06,863:127.0.0.1 - - [15/Apr/2021 15:36:06] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-15 15:36:15,352:127.0.0.1 - - [15/Apr/2021 15:36:15] "[31m[1mDELETE /animals/1?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0OTAyNjYsImNlbnRlcl9pZCI6MX0.zW6eS20g_PgI25YKUaTJpSIqhqorukuvpmIa2vlJql8 HTTP/1.1[0m" 400 -
+2021-04-15 15:36:22,244:DELETE /animals animal_id:2 center_id:1
+2021-04-15 15:36:22,244:127.0.0.1 - - [15/Apr/2021 15:36:22] "[37mDELETE /animals/2?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0OTAyNjYsImNlbnRlcl9pZCI6MX0.zW6eS20g_PgI25YKUaTJpSIqhqorukuvpmIa2vlJql8 HTTP/1.1[0m" 204 -
+2021-04-15 15:36:32,186:127.0.0.1 - - [15/Apr/2021 15:36:32] "[37mGET /centers/1 HTTP/1.1[0m" 200 -
+2021-04-15 15:36:37,105:DELETE /animals animal_id:5 center_id:1
+2021-04-15 15:36:37,106:127.0.0.1 - - [15/Apr/2021 15:36:37] "[37mDELETE /animals/5?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTg0OTAyNjYsImNlbnRlcl9pZCI6MX0.zW6eS20g_PgI25YKUaTJpSIqhqorukuvpmIa2vlJql8 HTTP/1.1[0m" 204 -
+2021-04-15 15:36:40,070:127.0.0.1 - - [15/Apr/2021 15:36:40] "[37mGET /centers/1 HTTP/1.1[0m" 200 -
+2021-04-15 15:57:56,285: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-04-15 15:58:07,164:127.0.0.1 - - [15/Apr/2021 15:58:07] "[37mPOST /login HTTP/1.1[0m" 200 -
+2021-04-15 15:58:08,057:127.0.0.1 - - [15/Apr/2021 15:58:08] "[37mPOST /login HTTP/1.1[0m" 200 -
